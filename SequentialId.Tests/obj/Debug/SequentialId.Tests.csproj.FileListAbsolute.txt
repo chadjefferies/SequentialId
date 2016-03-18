@@ -1,0 +1,8 @@
+C:\Repos\SequentialId\src\SequentialId.Tests\bin\Debug\SequentialId.Tests.dll
+C:\Repos\SequentialId\src\SequentialId.Tests\bin\Debug\SequentialId.Tests.pdb
+C:\Repos\SequentialId\src\SequentialId.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Repos\SequentialId\src\SequentialId.Tests\bin\Debug\SequentialId.dll
+C:\Repos\SequentialId\src\SequentialId.Tests\bin\Debug\SequentialId.pdb
+C:\Repos\SequentialId\src\SequentialId.Tests\obj\Debug\SequentialId.Tests.csprojResolveAssemblyReference.cache
+C:\Repos\SequentialId\src\SequentialId.Tests\obj\Debug\SequentialId.Tests.dll
+C:\Repos\SequentialId\src\SequentialId.Tests\obj\Debug\SequentialId.Tests.pdb

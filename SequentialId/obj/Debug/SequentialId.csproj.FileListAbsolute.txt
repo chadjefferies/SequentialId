@@ -1,0 +1,5 @@
+C:\Repos\SequentialId\src\SequentialId\bin\Debug\SequentialId.dll
+C:\Repos\SequentialId\src\SequentialId\bin\Debug\SequentialId.pdb
+C:\Repos\SequentialId\src\SequentialId\obj\Debug\SequentialId.csprojResolveAssemblyReference.cache
+C:\Repos\SequentialId\src\SequentialId\obj\Debug\SequentialId.dll
+C:\Repos\SequentialId\src\SequentialId\obj\Debug\SequentialId.pdb
